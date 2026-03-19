@@ -4,7 +4,7 @@
   uses: InvalidLenni/README.md@Template
   with:
     # <USERNAME>
-    github_user_name: 
+    github_user_name: BeyzaZengin1
     # <PATH OF THE GENERATED SVG FILE>
     svg_out_path: 
           
